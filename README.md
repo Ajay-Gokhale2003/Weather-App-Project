@@ -1,4 +1,4 @@
-# Ajay Portfolio Website 🎨
+# Weather-App 🎨
 
 This is a simple weather app built with **React**, which allows users to get the current weather of any city.
 
@@ -15,7 +15,7 @@ This is a simple weather app built with **React**, which allows users to get the
 - Git & GitHub
 
 ## Live Project Demo
-Visit the live website: [Weather App]
+Visit the live website: [Weather App]https://ajay-gokhale2003.github.io/Weather-App-Project/
 
 ## 📦 How to Run Locally
 
